@@ -6,7 +6,7 @@ __pycache__/
 *.log
 
 # Virtualenv
-venv/
+# venv/
 ENV/
 env/
 
