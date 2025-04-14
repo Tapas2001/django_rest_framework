@@ -1,0 +1,29 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.log
+
+# Virtualenv
+venv/
+ENV/
+env/
+
+# Django stuff
+db.sqlite3
+*.sqlite3
+/media/
+
+# Environment & Secrets
+*.env
+
+
+# Static files (can be built later) # Static collect output (optional)
+static/
+
+# IDEs
+.vscode/
+.idea/
+
+
